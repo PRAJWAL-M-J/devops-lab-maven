@@ -28,4 +28,5 @@
     </plugin>
   </plugins>
 </build>
+<description>Initial description added for Jenkins test</description>
 </project>
